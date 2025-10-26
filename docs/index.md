@@ -1,4 +1,4 @@
-# Bienvenida al Aprendizaje Supervisado en Inteligencia Artificial
+# Aprendizaje Supervisado en Inteligencia Artificial
 
 ¡Bienvenido! 🎉  
 En este documento encontrarás una introducción a los **conceptos básicos del aprendizaje supervisado**, una de las ramas fundamentales de la **Inteligencia Artificial (IA)** y del **Machine Learning (ML)**.
